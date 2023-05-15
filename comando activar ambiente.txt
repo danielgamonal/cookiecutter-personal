@@ -1,0 +1,5 @@
+para activar ambiente usar:
+$ conda activate cookiecutter-personal
+
+para descativar ambiente:
+$ conda deactivate
